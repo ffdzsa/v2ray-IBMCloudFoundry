@@ -7,7 +7,7 @@ import time
 
 UUID = "2ac61062-7cad-4d10-b84a-a3e4ac286bd6"
 PATH = "/sss"
-IBMEMAIL = "ctransfer@qq.com"
+IBMEMAIL = "certransfer@qq.com"
 IBMPASS = "Elayred#123456"
 CFNAME = "x8set"
 
