@@ -7,9 +7,9 @@ import time
 
 UUID = "2ac61062-7cad-4d10-b84a-a3e4ac286bd6"
 PATH = "/sss"
-IBMEMAIL = "certransfer@qq.com"
-IBMPASS = "Elayred#123456"
-CFNAME = "x8set"
+IBMEMAIL = "certraom"
+IBMPASS = "23456"
+CFNAME = "xet"
 
 
 def cmd_run(args):
